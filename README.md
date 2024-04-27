@@ -10,8 +10,7 @@ Clona tu repositorio forkeado a tu computadora local. Puedes usar el comando git
 Bash
 ```
 git clone https://github.com/tu_nombre_de_usuario/EP1.git
-Usa el código con precaución.
-content_copy
+
 ```
 ### 3. Crea una rama para tus cambios:
 
@@ -19,8 +18,6 @@ Crea una rama para tus cambios. Puedes usar el comando git branch para hacerlo. 
 Bash
 ```
 git branch mi-rama
-Usa el código con precaución.
-content_copy
 ```
 
 ### 4. Realiza los cambios:
@@ -33,8 +30,6 @@ Bash
 ```
 git add <archivos_modificados>
 git commit -m "Mensaje de commit descriptivo"
-Usa el código con precaución.
-content_copy
 ```
 
 ### 6. Envía tus cambios al repositorio forkeado:
@@ -43,8 +38,7 @@ Envía tus cambios a tu repositorio forkeado en GitHub. Puedes usar el comando g
 Bash
 ```
 git push origin mi-rama
-Usa el código con precaución.
-content_copy
+
 ```
 
 ### 7. Crea un Pull Request:
